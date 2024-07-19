@@ -1,3 +1,4 @@
 # code
 this is my first repository
-author : imtiyaz
+author : imtiyaz khan
+
